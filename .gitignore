@@ -1,0 +1,20 @@
+weather/server/lib/secrets.js
+
+# These are for deployment with Meteor Up (which zmknox used to push to his server before it broke)
+weather/mup.json
+weather/settings.json
+
+# -- Vim .gitignores --
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+# session
+Session.vim
+
+# temporary
+.netrwhist
+*~
+
+# auto-generated tag files
+tags
